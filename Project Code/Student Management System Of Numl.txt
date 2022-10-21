@@ -1,0 +1,83 @@
+
+					========================================
+					  WELCOME TO STUDENT MANAGEMENT SYSTEM 
+					========================================
+							====
+							 OF 
+							====
+					=========================================
+					  NAIONAL UNIVERSITY OF MODERN LANGUAGES      
+					=========================================
+
+						=================
+						 STUDENT RECORDS 
+						=================
+
+========
+ROLL NO:
+========
+160
+================
+NAME OF STUDENT:
+================
+ABDUL SAMI BUTT
+====================
+PHONE NO OF STUDENT:
+====================
+03225368551
+=======
+CNIC NO:
+=======
+03225368551
+============
+FATHER NAME:
+============
+Buttsami969@gmail.com
+==================
+PHONE NO OF FATHER:
+==================
+03225368551
+=========
+EMAIL ID:
+=========
+MUHAMMAD RIAZ BUTT
+===========
+DEPARTMENT:
+===========
+Computer Science
+=========
+SEMESTER:
+=========
+3
+===============
+SEMESTER MARKS:
+===============
+350
+==========
+PERCENTAGE:
+==========
+70
+====
+GPA:
+====
+3.17647
+=====
+CGPA:
+=====
+2.6
+=====
+FEES:
+=====
+Paid
+=======
+ADDRESS:
+=======
+Rawalpindi
+=======
+CAMPUS:
+=======
+Rawalpindi
+============================
+EXTRA-CURRICULAR-ACTIVITIES:
+============================
+Cricket
